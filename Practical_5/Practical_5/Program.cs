@@ -1,4 +1,7 @@
-﻿using System;
+﻿/*
+ * @NilSinojiya
+ */
+using System;
 
 namespace Practical_5
 {
