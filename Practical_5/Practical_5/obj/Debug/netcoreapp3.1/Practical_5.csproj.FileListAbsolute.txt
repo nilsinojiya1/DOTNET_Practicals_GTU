@@ -1,0 +1,11 @@
+E:\Study\SEM6\DOTNET\Lab\Practical_5\Practical_5\bin\Debug\netcoreapp3.1\Practical_5.exe
+E:\Study\SEM6\DOTNET\Lab\Practical_5\Practical_5\bin\Debug\netcoreapp3.1\Practical_5.deps.json
+E:\Study\SEM6\DOTNET\Lab\Practical_5\Practical_5\bin\Debug\netcoreapp3.1\Practical_5.runtimeconfig.json
+E:\Study\SEM6\DOTNET\Lab\Practical_5\Practical_5\bin\Debug\netcoreapp3.1\Practical_5.runtimeconfig.dev.json
+E:\Study\SEM6\DOTNET\Lab\Practical_5\Practical_5\bin\Debug\netcoreapp3.1\Practical_5.dll
+E:\Study\SEM6\DOTNET\Lab\Practical_5\Practical_5\bin\Debug\netcoreapp3.1\Practical_5.pdb
+E:\Study\SEM6\DOTNET\Lab\Practical_5\Practical_5\obj\Debug\netcoreapp3.1\Practical_5.csprojAssemblyReference.cache
+E:\Study\SEM6\DOTNET\Lab\Practical_5\Practical_5\obj\Debug\netcoreapp3.1\Practical_5.AssemblyInfoInputs.cache
+E:\Study\SEM6\DOTNET\Lab\Practical_5\Practical_5\obj\Debug\netcoreapp3.1\Practical_5.AssemblyInfo.cs
+E:\Study\SEM6\DOTNET\Lab\Practical_5\Practical_5\obj\Debug\netcoreapp3.1\Practical_5.dll
+E:\Study\SEM6\DOTNET\Lab\Practical_5\Practical_5\obj\Debug\netcoreapp3.1\Practical_5.pdb
