@@ -5,6 +5,20 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title>ChangeFontSize</title>
+    <style type="text/css">
+        .roundCorner
+        {
+            border-radius: 25px;
+            background-color: #4F81BD;
+            color:#FFFFFF;
+            text-align :center;
+            font-family:arial, helvetica, sans-serif;
+            padding: 5px 5px 5px 5px;
+            font-weight:bold;
+            width:100px;
+            height:30px;
+        } 
+    </style>
 </head>
 <body>
     <form id="form1" runat="server">
@@ -14,9 +28,9 @@
         </div>
         <p>
             &nbsp;</p>
-        <asp:Button ID="Button1" runat="server" Font-Bold="True" Font-Size="Large" Text="AA" OnClick="btnLargeClick" />
+        <asp:Button ID="Button1" runat="server" CssClass="roundCorner" Font-Bold="True" Font-Size="Large" Text="A++" OnClick="btnLargeClick" />
 &nbsp;
-        <asp:Button ID="Button2" runat="server" Font-Bold="True" Font-Size="Small" Text="AA" OnClick="btnSmallClick" />
+        <asp:Button ID="Button2" runat="server" CssClass="roundCorner" Font-Bold="True" Font-Size="Large" Text="A--" OnClick="btnSmallClick" />
     </form>
 </body>
 </html>
